@@ -13,7 +13,7 @@ import java.util.List;
 
 // Controller class
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "*")
 public class UnController
 {
 
